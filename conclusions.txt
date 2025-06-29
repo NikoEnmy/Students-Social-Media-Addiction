@@ -1,0 +1,5 @@
+Conclusions:
+- Addiction is higher in high school students (High School: 8.04).
+- Complicated relationships increase addiction (Complicated: 7.03).
+- Strong inverse correlation with mental health (-0.945).
+- Youth (18-20) are more addicted than older adults (21-24).
