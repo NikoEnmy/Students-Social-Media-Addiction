@@ -1,7 +1,12 @@
 SoftMaker/
 *.pmdx/
 MoonBot - Emulator/
+POKER-GGPCOM-LIVE/
+POKER-WSOP-LIVE/
 *.MOV
 *.docx
 *.pdf
+Prediction
+calculate
+data.csv
 desktop.ini
