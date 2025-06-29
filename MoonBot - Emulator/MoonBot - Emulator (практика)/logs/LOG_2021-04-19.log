@@ -1,0 +1,58 @@
+00:13:35               
+00:13:35           --- App Start ---   CPU: 8 cores   Memory: 17.06 Gb  UseMem: 100%   Canvas: TCanvasD2D
+00:13:36.593           ---  Init. Exchange: Binance Futures  ---  v6.30 (28.03.2021)  VDS Mode: NO  FreePosMode: NO
+00:13:40.081   UDP will exporter to port 2000
+00:13:40.245   UDP Init failed: Could not bind socket. Address and port are already in use. network functions won't work, sry. 
+00:13:41.363  Moved to monitor 0 Scale: 125 Width: 1920 Height: 1080 
+00:13:43.379  Account Rate Limits: 2400 requests per minute,  1200 orders per minute, 300 orders per 10 seconds 
+00:13:43.084  Auth: OK! Binance connection method: 0
+00:13:51.063  Updater prepared: F:\Rabota(hobbi_\MoonBot  WorkCopy\updater.exe
+00:13:51.064  Closing...
+00:13:51.579  Waiting MoonShot shutdown. 
+00:13:51.597    -  Save settings 
+00:13:51.655    -  Waiting Market Engine thread...
+00:13:51.657    -  Closing db...
+00:13:51.670    -  Stop APIs thread...
+00:13:55.720   updater started. F:\Rabota(hobbi_\MoonBot  WorkCopy\updater.exe 
+00:13:55.723    -  Quit 
+00:14:02               
+00:14:02           --- App Start ---   CPU: 8 cores   Memory: 17.06 Gb  UseMem: 100%   Canvas: TCanvasD2D
+00:14:03.649           ---  Init. Exchange: Binance Futures  ---  v6.32 (12.04.2021)  VDS Mode: NO  FreePosMode: NO
+00:14:07.291   UDP will exporter to port 2000
+00:14:07.488   UDP Init failed: Could not bind socket. Address and port are already in use. network functions won't work, sry. 
+00:14:10.601  Account Rate Limits: 2400 requests per minute,  1200 orders per minute, 300 orders per 10 seconds 
+00:14:10.295  Auth: OK! Binance connection method: 0
+00:14:15.427   == Reg. ID: 2206
+00:14:15.428  Пожалуйста, зайдите в "Настройки - Логин" и поставьте галочку "Согласен отправлять результаты моих сделок на сервер" на всех ваших ботах. 
+  Если вы не снимаете галочку минимум неделю, вам станут доступны некоторые особые функции, например стратегия покупки на листинге. 
+  (Осталось 5.9 дней )
+00:14:15.429  MultiOrders: NO (cfg: NO)  XFunction: NO 
+00:14:15.430  Markets updated: 112  USDT Markets: 112
+00:14:15.655  Bot's server message: Welcome!
+00:14:16.937  PositionSide: {"dualSidePosition":false}
+00:14:17.002  SubscribeOrders: OK; key: QvDEfAZQaOXnpCSUhJ5P3Zd4rMPYAsBbQ87VgRPsZYVSyGjLG5pBhRdrqbaaIlCD
+00:14:18.284  SubscribeOrders2: OK; key: QvDEfAZQaOXnpCSUhJ5P3Zd4rMPYAsBbQ87VgRPsZYVSyGjLG5pBhRdrqbaaIlCD
+00:14:22.093  TimeSync tries:7  Offset: 29  NTPDelay: 62
+00:14:25.035  Data load time: 8.89 sec
+00:14:25.047  Subscribing to @aggTrade stream
+00:14:25.049  Готов.
+00:14:27.044   === Started ===
+00:14:27.045  Жду название монеты ...
+00:14:27.045  Starting strategies...
+00:15:12.956  Save strategies (multi selection)
+00:15:21.431  Save strategies (multi selection)
+00:15:22.145  Stopping strategies...  (stop button click) 
+00:15:22.438  Starting strategies...
+00:15:25.629  Save strategies (multi selection)
+00:16:08.503   UDP Init failed: Could not bind socket. Address and port are already in use. network functions won't work, sry. 
+00:16:10.033  Closing...
+00:16:10.035   === Stopped ===
+00:16:10.467  Stopping strategies...  (stop on app close) 
+00:16:10.477  Waiting MoonShot shutdown. 
+00:16:11.963    -  Save settings 
+00:16:12.075    -  Waiting Market Engine thread...
+00:16:12.121  GetOrderWorker: Pending Tasks: 0 Results: 0   
+00:16:15.185    -  Closing db...
+00:16:15.187  Backuping orders db ...
+00:16:16.612    -  Stop APIs thread...
+00:16:17.069    -  Quit 

@@ -1,0 +1,41 @@
+def calculate(num1, num2, operation):
+    if operation == "add":
+        return num1 + num2
+    elif operation == "subtract":
+        return num1 - num2 
+    elif operation == "multiply":
+        return num1 * num2
+    elif operation == "divide":
+        if num2 == 0:
+            return 'Ошибка: деление на ноль!'
+        return num1 / num2
+    else:
+        return 'Ошибка: неверная операция!'
+
+while True:
+    try:
+        num1 = float(input("Введите первое число:"))
+        print()
+        break
+    except ValueError:
+        print("Пожалуйста, введите число!")
+        print()
+while True:
+    try:
+        num2 = float(input("Введите второе число:"))
+        print()
+        break
+    except ValueError:
+        print("Пожалуйста, введите число!")
+        print()
+
+    operation = input("Введите операцию (add, subtract, multiply, divide) или 'exit' для выхода: ").lower()
+    print()
+
+    if operation == "exit":
+        print("Программа завершена.")
+        break
+
+    result = calculate(num1, num2, operation)
+    print(f"Результат: {result}")
+    print()

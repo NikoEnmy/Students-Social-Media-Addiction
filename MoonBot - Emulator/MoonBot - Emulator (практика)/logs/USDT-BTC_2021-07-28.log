@@ -1,0 +1,114 @@
+         ---  Exchange: Binance Futures  ---  v6.38 (10.05.2021)  --- Reg.ID: 2206  VDS Mode: NO  FreePosMode: NO
+MultiOrders: NO (cfg: NO)  XFunction: NO 
+23:14:56.604  BTC: (3) Task 3 started; USDT-BTC (strategy <+1000>) UseAsk: 40167.49 CurAsk: 40167.49  BUY 40240.55 (signal price -2%)
+23:14:56.604  BTC: (3)  HistoryDataLoaded: YES 
+23:14:56.605  BTC: (3)  Gonna set the order ... 
+23:14:56.729  BTC: (3) USDT-BTC Buy order: 0.0010 USDT-BTC rate: 40240.55 Sum: 40.24$  ID: 0 cID: emu
+23:14:56.729  BTC: (3) BUY Order SET!
+23:14:56.739  BTC: (3) Buy order DONE! FILL: 100%  Opened: 23:14:56.605 Quantity: 0.00100000 Sum: 40.17$ Avg.Price: 40161.74 (ASK + 0% )
+23:14:56.739  BTC: (3)   OrderCheck: vol: 0.00100000  ActualQ: 0.00100000  BTCvol: 40.16977235   TotalBTC: 40.16977235 -- vols:  wsQ: 0.00100000 wsBTC: 40.16977235 tBTC: 40.16977235
+23:14:56.739  BTC: (3) Using (strategy <+1000>) SELL price: 1.00% = 40563.36
+23:14:56.739  BTC: (3) SELL price corrected! delta=-0.19% 
+23:14:57.005  BTC: (3) USDT-BTC Sell order: 0.0010 USDT-BTC rate: 40485.29 Sum: 40.49$  ID: 0 cID: emu
+23:14:57.005  BTC: (3)   *** SELL order Set ! ***  Quantity: 0.00100000 Price: 40485.29
+23:14:57.013  BTC (3) : Selling 0.00000000   Pos: Long: 0.00000000 Short: 0.00000000  
+23:15:31.870  BTC: (3) SELL order replace request...
+23:15:31.887  BTC: (3) SELL order canceled! 
+23:15:32.153  BTC: (3) USDT-BTC Sell order: 0.0010 USDT-BTC rate: 40078.79 Sum: 40.08$  ID: 0 cID: emu
+23:15:32.153  BTC: (3) SELL order replaced ! 
+23:15:32.205  BTC: (3)   OrderCheck: vol: 0.00100000  ActualQ: 0.00100000  BTCvol: 40.08480144   TotalBTC: 40.08480144 -- vols:  wsQ: 0.00100000 wsBTC: 40.08480144 tBTC: 40.08480144
+23:15:32.205  BTC: (3)   *** SELL order DONE ! ***  Quantity: 0.0010 Avg.Price: 40092.82 Sum: 40.08$ Delta: -0.08$  wsQ:0.0010 wsBTC: 40.08$ rQ: 0.00000000
+23:15:32.205  BTC: (3)   *** Sell/Buy: - 0%
+23:15:32.205  BTC: (3)   *** Sell/ASK: + 0%
+23:15:32.218    *** Sell #BTC done, total:  - 0.08 $ (-4.2%) 
+23:15:33.440  BTC: (4) Task 4 started; USDT-BTC (strategy <+1000>) UseAsk: 40091.82 CurAsk: 40091.82  BUY 40147.80 (signal price -2%)
+23:15:33.440  BTC: (4)  HistoryDataLoaded: YES 
+23:15:33.440  BTC: (4)  Gonna set the order ... 
+23:15:33.564  BTC: (4) USDT-BTC Buy order: 0.0010 USDT-BTC rate: 40147.80 Sum: 40.15$  ID: 0 cID: emu
+23:15:33.564  BTC: (4) BUY Order SET!
+23:15:33.574  BTC: (4) Buy order DONE! FILL: 100%  Opened: 23:15:33.440 Quantity: 0.00100000 Sum: 40.10$ Avg.Price: 40091.82 (ASK + 0% )
+23:15:33.574  BTC: (4)   OrderCheck: vol: 0.00100000  ActualQ: 0.00100000  BTCvol: 40.09983836   TotalBTC: 40.09983836 -- vols:  wsQ: 0.00100000 wsBTC: 40.09983836 tBTC: 40.09983836
+23:15:33.574  BTC: (4) Using (strategy <+1000>) SELL price: 1.00% = 40492.74
+23:15:33.574  BTC: (4) SELL price corrected! delta=-0.19% 
+23:15:33.842  BTC: (4) USDT-BTC Sell order: 0.0010 USDT-BTC rate: 40416.90 Sum: 40.42$  ID: 0 cID: emu
+23:15:33.842  BTC: (4)   *** SELL order Set ! ***  Quantity: 0.00100000 Price: 40416.90
+23:15:33.847  BTC (4) : Selling 0.00000000   Pos: Long: 0.00000000 Short: 0.00000000  
+23:15:36.097  BTC: (4) SELL order replace request...
+23:15:36.114  BTC: (4) SELL order canceled! 
+23:15:36.381  BTC: (4) USDT-BTC Sell order: 0.0010 USDT-BTC rate: 40545.17 Sum: 40.55$  ID: 0 cID: emu
+23:15:36.381  BTC: (4) SELL order replaced ! 
+23:15:42.852  BTC: (4) SELL order replace request...
+23:15:42.869  BTC: (4) SELL order canceled! 
+23:15:43.137  BTC: (4) USDT-BTC Sell order: 0.0010 USDT-BTC rate: 40030.13 Sum: 40.03$  ID: 0 cID: emu
+23:15:43.137  BTC: (4) SELL order replaced ! 
+23:15:43.188  BTC: (4)   OrderCheck: vol: 0.00100000  ActualQ: 0.00100000  BTCvol: 40.07904259   TotalBTC: 40.07904259 -- vols:  wsQ: 0.00100000 wsBTC: 40.07904259 tBTC: 40.07904259
+23:15:43.188  BTC: (4)   *** SELL order DONE ! ***  Quantity: 0.0010 Avg.Price: 40087.06 Sum: 40.08$ Delta: -0.02$  wsQ:0.0010 wsBTC: 40.08$ rQ: 0.00000000
+23:15:43.188  BTC: (4)   *** Sell/Buy: - 0%
+23:15:43.188  BTC: (4)   *** Sell/ASK: + 0%
+23:15:43.197    *** Sell #BTC done, total:  - 0.02 $ (-1.0%) 
+23:16:12.467  BTC: (5) Task 5 started; USDT-BTC (strategy <+1000>) UseAsk: 40134.09 CurAsk: 40134.09  BUY 40165.40 (signal price -2%)
+23:16:12.467  BTC: (5)  HistoryDataLoaded: YES 
+23:16:12.468  BTC: (5)  Gonna set the order ... 
+23:16:12.592  BTC: (5) USDT-BTC Buy order: 0.0010 USDT-BTC rate: 40165.40 Sum: 40.17$  ID: 0 cID: emu
+23:16:12.592  BTC: (5) BUY Order SET!
+23:16:12.601  BTC: (5) Buy order DONE! FILL: 100%  Opened: 23:16:12.468 Quantity: 0.00100000 Sum: 40.14$ Avg.Price: 40134.09 (ASK + 0% )
+23:16:12.601  BTC: (5)   OrderCheck: vol: 0.00100000  ActualQ: 0.00100000  BTCvol: 40.14211682   TotalBTC: 40.14211682 -- vols:  wsQ: 0.00100000 wsBTC: 40.14211682 tBTC: 40.14211682
+23:16:12.601  BTC: (5) Using (strategy <+1000>) SELL price: 1.00% = 40535.43
+23:16:12.601  BTC: (5) SELL price corrected! delta=-0.09% 
+23:16:12.867  BTC: (5) USDT-BTC Sell order: 0.0010 USDT-BTC rate: 40500.00 Sum: 40.50$  ID: 0 cID: emu
+23:16:12.867  BTC: (5)   *** SELL order Set ! ***  Quantity: 0.00100000 Price: 40500.00
+23:16:12.880  BTC (5) : Selling 0.00000000   Pos: Long: 0.00000000 Short: 0.00000000  
+23:16:29.545  BTC: [2] (6) Task 6 started; USDT-BTC (strategy <+1000>) UseAsk: 40170.13 CurAsk: 40170.13  BUY 40268.01 (signal price -2%)
+23:16:29.545  BTC: [2] (6)  HistoryDataLoaded: YES 
+23:16:29.545  BTC: [2] (6)  Gonna set the order ... 
+23:16:29.669  BTC: [2] (6) USDT-BTC Buy order: 0.0010 USDT-BTC rate: 40268.01 Sum: 40.27$  ID: 0 cID: emu
+23:16:29.669  BTC: [2] (6) BUY Order SET!
+23:16:29.680  BTC: [2] (6) Buy order DONE! FILL: 100%  Opened: 23:16:29.545 Quantity: 0.00100000 Sum: 40.18$ Avg.Price: 40170.13 (ASK + 0% )
+23:16:29.680  BTC: [2] (6)   OrderCheck: vol: 0.00100000  ActualQ: 0.00100000  BTCvol: 40.17816403   TotalBTC: 40.17816403 -- vols:  wsQ: 0.00100000 wsBTC: 40.17816403 tBTC: 40.17816403
+23:16:29.680  BTC: [2] (6) Using (strategy <+1000>) SELL price: 1.00% = 40571.83
+23:16:29.680  BTC: [2] (6) SELL price corrected! delta=-0.19% 
+23:16:29.947  BTC: [2] (6) USDT-BTC Sell order: 0.0010 USDT-BTC rate: 40493.41 Sum: 40.49$  ID: 0 cID: emu
+23:16:29.947  BTC: [2] (6)   *** SELL order Set ! ***  Quantity: 0.00100000 Price: 40493.41
+23:16:29.957  BTC [2] (6) : Selling 0.00000000   Pos: Long: 0.00000000 Short: 0.00000000  
+23:16:34.119  BTC: [3] (7) Task 7 started; USDT-BTC (strategy <+1000>) UseAsk: 40174.46 CurAsk: 40174.46  BUY 40313.40 (signal price -2%)
+23:16:34.119  BTC: [3] (7)  HistoryDataLoaded: YES 
+23:16:34.119  BTC: [3] (7)  Gonna set the order ... 
+23:16:34.242  BTC: [3] (7) USDT-BTC Buy order: 0.0010 USDT-BTC rate: 40313.40 Sum: 40.31$  ID: 0 cID: emu
+23:16:34.242  BTC: [3] (7) BUY Order SET!
+23:16:34.246  BTC: [3] (7) Buy order DONE! FILL: 100%  Opened: 23:16:34.119 Quantity: 0.00100000 Sum: 40.18$ Avg.Price: 40174.46 (ASK + 0% )
+23:16:34.246  BTC: [3] (7)   OrderCheck: vol: 0.00100000  ActualQ: 0.00100000  BTCvol: 40.18249489   TotalBTC: 40.18249489 -- vols:  wsQ: 0.00100000 wsBTC: 40.18249489 tBTC: 40.18249489
+23:16:34.246  BTC: [3] (7) Using (strategy <+1000>) SELL price: 1.00% = 40576.20
+23:16:34.246  BTC: [3] (7) SELL price corrected! delta=-0.19% 
+23:16:34.514  BTC: [3] (7) USDT-BTC Sell order: 0.0010 USDT-BTC rate: 40499.99 Sum: 40.50$  ID: 0 cID: emu
+23:16:34.514  BTC: [3] (7)   *** SELL order Set ! ***  Quantity: 0.00100000 Price: 40499.99
+23:16:34.534  BTC [3] (7) : Selling 0.00000000   Pos: Long: 0.00000000 Short: 0.00000000  
+23:16:41.261  BTC: [2] (6) Panic Sell Replacing....  <Spread: 0.20%>
+23:16:41.261  BTC: [2] (6) SELL order replace request...
+23:16:41.277  BTC: [1] (5) Panic Sell Replacing....  <Spread: 0.20%>
+23:16:41.277  BTC: [1] (5) SELL order replace request...
+23:16:41.278  BTC: [2] (6) SELL order canceled! 
+23:16:41.278  BTC: [3] (7) Panic Sell Replacing....  <Spread: 0.20%>
+23:16:41.278  BTC: [3] (7) SELL order replace request...
+23:16:41.294  BTC: [1] (5) SELL order canceled! 
+23:16:41.295  BTC: [3] (7) SELL order canceled! 
+23:16:41.544  BTC: [2] (6) USDT-BTC Sell order: 0.0010 USDT-BTC rate: 40093.80 Sum: 40.09$  ID: 0 cID: emu
+23:16:41.544  BTC: [2] (6) SELL order replaced ! 
+23:16:41.560  BTC: [1] (5) USDT-BTC Sell order: 0.0010 USDT-BTC rate: 40093.80 Sum: 40.09$  ID: 0 cID: emu
+23:16:41.560  BTC: [1] (5) SELL order replaced ! 
+23:16:41.562  BTC: [3] (7) USDT-BTC Sell order: 0.0010 USDT-BTC rate: 40093.80 Sum: 40.09$  ID: 0 cID: emu
+23:16:41.562  BTC: [3] (7) SELL order replaced ! 
+23:16:41.596  BTC: [2] (6)   OrderCheck: vol: 0.00100000  ActualQ: 0.00100000  BTCvol: 40.16709497   TotalBTC: 40.16709497 -- vols:  wsQ: 0.00100000 wsBTC: 40.16709497 tBTC: 40.16709497
+23:16:41.596  BTC: [2] (6)   *** SELL order DONE ! ***  Quantity: 0.0010 Avg.Price: 40175.13 Sum: 40.17$ Delta: -0.01$  wsQ:0.0010 wsBTC: 40.17$ rQ: 0.00000000
+23:16:41.596  BTC: [2] (6)   *** Sell/Buy: + 0%
+23:16:41.596  BTC: [2] (6)   *** Sell/ASK: + 0%
+23:16:41.607    *** Sell #BTC done, total:  - 0.01 $ (-0.6%) 
+23:16:41.612  BTC: [1] (5)   OrderCheck: vol: 0.00100000  ActualQ: 0.00100000  BTCvol: 40.16709497   TotalBTC: 40.16709497 -- vols:  wsQ: 0.00100000 wsBTC: 40.16709497 tBTC: 40.16709497
+23:16:41.612  BTC: [1] (5)   *** SELL order DONE ! ***  Quantity: 0.0010 Avg.Price: 40175.13 Sum: 40.17$ Delta: 0.02$  wsQ:0.0010 wsBTC: 40.17$ rQ: 0.00000000
+23:16:41.612  BTC: [1] (5)   *** Sell/Buy: + 0%
+23:16:41.612  BTC: [1] (5)   *** Sell/ASK: + 0%
+23:16:41.623    *** Sell #BTC done, total:  + 0.02 $ (+1.2%) 
+23:16:41.614  BTC: [3] (7)   OrderCheck: vol: 0.00100000  ActualQ: 0.00100000  BTCvol: 40.16709497   TotalBTC: 40.16709497 -- vols:  wsQ: 0.00100000 wsBTC: 40.16709497 tBTC: 40.16709497
+23:16:41.614  BTC: [3] (7)   *** SELL order DONE ! ***  Quantity: 0.0010 Avg.Price: 40175.13 Sum: 40.17$ Delta: -0.02$  wsQ:0.0010 wsBTC: 40.17$ rQ: 0.00000000
+23:16:41.614  BTC: [3] (7)   *** Sell/Buy: + 0%
+23:16:41.614  BTC: [3] (7)   *** Sell/ASK: + 0%
+23:16:41.629    *** Sell #BTC done, total:  - 0.02 $ (-0.8%) 

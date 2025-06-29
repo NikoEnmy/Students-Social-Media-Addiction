@@ -1,0 +1,46 @@
+         ---  Exchange: Binance Futures  ---  v6.33 (21.04.2021)  --- Reg.ID: 2206  VDS Mode: NO  FreePosMode: NO
+MultiOrders: NO (cfg: NO)  XFunction: NO 
+14:11:09.071  EOS: (3) Task 3 started; USDT-EOS (strategy <+1000>) UseAsk: 5.2540 CurAsk: 5.2540  BUY 5.2618 (signal price -2%)
+14:11:09.071  EOS: (3)  HistoryDataLoaded: YES 
+14:11:09.073  EOS: (3)  Gonna set the order ... 
+14:11:09.229  EOS: (3) USDT-EOS Buy order: 19.0000 USDT-EOS rate: 5.2620 Sum: 99.98$  ID: 0 cID: emu
+14:11:09.229  EOS: (3) BUY Order SET!
+14:11:09.237  EOS: (3) Buy order DONE! FILL: 100%  Opened: 14:11:09.073 Quantity: 19.00000000 Sum: 99.87$ Avg.Price: 5.2540 (ASK + 0% )
+14:11:09.237  EOS: (3)   OrderCheck: vol: 19.00000000  ActualQ: 19.00000000  BTCvol: 99.86593039   TotalBTC: 99.86593039 -- vols:  wsQ: 19.00000000 wsBTC: 99.86593039 tBTC: 99.86593039
+14:11:09.237  EOS: (3) Using (strategy <+1000>) SELL price: 1.00% = 5.3065
+14:11:09.237  EOS: (3) SELL price corrected! delta=-0.20% 
+14:11:09.532  EOS: (3) USDT-EOS Sell order: 19.0000 USDT-EOS rate: 5.2960 Sum: 100.62$  ID: 0 cID: emu
+14:11:09.535  EOS: (3)   *** SELL order Set ! ***  Quantity: 19.00000000 Price: 5.2960
+14:11:09.548  EOS (3) : Selling 0.00000000   Pos: 0.00000000  
+14:11:12.665  EOS: (3) Panic Sell Replacing....  <Spread: 0.20%>
+14:11:12.665  EOS: (3) SELL order replace request...
+14:11:12.696  EOS: (3) SELL order canceled! 
+14:11:13.028  EOS: (3) USDT-EOS Sell order: 19.0000 USDT-EOS rate: 5.2430 Sum: 99.62$  ID: 0 cID: emu
+14:11:13.028  EOS: (3) SELL order replaced ! 
+14:11:13.089  EOS: (3)   OrderCheck: vol: 19.00000000  ActualQ: 19.00000000  BTCvol: 99.76707721   TotalBTC: 99.76707721 -- vols:  wsQ: 19.00000000 wsBTC: 99.76707721 tBTC: 99.76707721
+14:11:13.089  EOS: (3)   *** SELL order DONE ! ***  Quantity: 19.0000 Avg.Price: 5.2530 Sum: 99.77$ Delta: -0.10$  wsQ:19.0000 wsBTC: 99.77$ rQ: 0.00000000
+14:11:13.089  EOS: (3)   *** Sell/Buy: - 0%
+14:11:13.089  EOS: (3)   *** Sell/ASK: + 0%
+14:11:13.108    *** Sell #EOS done, total:  - 0.10 $ (-2.0%) 
+14:12:23.105  EOS: (4) Task 4 started; USDT-EOS (strategy <+1000>) UseAsk: 5.2670 CurAsk: 5.2670  BUY 5.2991 (signal price -2%)
+14:12:23.105  EOS: (4)  HistoryDataLoaded: YES 
+14:12:23.106  EOS: (4)  Gonna set the order ... 
+14:12:23.244  EOS: (4) USDT-EOS Buy order: 18.9000 USDT-EOS rate: 5.2990 Sum: 100.15$  ID: 0 cID: emu
+14:12:23.244  EOS: (4) BUY Order SET!
+14:12:23.253  EOS: (4) Buy order DONE! FILL: 100%  Opened: 14:12:23.106 Quantity: 18.90000000 Sum: 99.59$ Avg.Price: 5.2670 (ASK + 0% )
+14:12:23.253  EOS: (4)   OrderCheck: vol: 18.90000000  ActualQ: 18.90000000  BTCvol: 99.58611851   TotalBTC: 99.58611851 -- vols:  wsQ: 18.90000000 wsBTC: 99.58611851 tBTC: 99.58611851
+14:12:23.253  EOS: (4) Using (strategy <+1000>) SELL price: 1.00% = 5.3197
+14:12:23.253  EOS: (4) SELL price corrected! delta=-0.18% 
+14:12:23.591  EOS: (4) USDT-EOS Sell order: 18.9000 USDT-EOS rate: 5.3100 Sum: 100.36$  ID: 0 cID: emu
+14:12:23.591  EOS: (4)   *** SELL order Set ! ***  Quantity: 18.90000000 Price: 5.3100
+14:12:23.603  EOS (4) : Selling 0.00000000   Pos: 0.00000000  
+14:12:24.618  EOS: (4) Panic Sell Replacing....  <Spread: 0.20%>
+14:12:24.618  EOS: (4) SELL order replace request...
+14:12:24.648  EOS: (4) SELL order canceled! 
+14:12:24.994  EOS: (4) USDT-EOS Sell order: 18.9000 USDT-EOS rate: 5.2580 Sum: 99.38$  ID: 0 cID: emu
+14:12:24.994  EOS: (4) SELL order replaced ! 
+14:12:25.069  EOS: (4)   OrderCheck: vol: 18.90000000  ActualQ: 18.90000000  BTCvol: 99.52537393   TotalBTC: 99.52537393 -- vols:  wsQ: 18.90000000 wsBTC: 99.52537393 tBTC: 99.52537393
+14:12:25.069  EOS: (4)   *** SELL order DONE ! ***  Quantity: 18.9000 Avg.Price: 5.2680 Sum: 99.53$ Delta: -0.06$  wsQ:18.9000 wsBTC: 99.53$ rQ: 0.00000000
+14:12:25.069  EOS: (4)   *** Sell/Buy: + 0%
+14:12:25.069  EOS: (4)   *** Sell/ASK: + 0%
+14:12:25.080    *** Sell #EOS done, total:  - 0.06 $ (-1.2%) 

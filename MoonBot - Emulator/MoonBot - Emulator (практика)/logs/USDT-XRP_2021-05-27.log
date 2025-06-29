@@ -1,0 +1,24 @@
+         ---  Exchange: Binance Futures  ---  v6.38 (10.05.2021)  --- Reg.ID: 2206  VDS Mode: NO  FreePosMode: NO
+MultiOrders: NO (cfg: NO)  XFunction: NO 
+19:08:04.709  XRP: (3) Task 3 started; USDT-XRP (strategy <+1000>) UseAsk: 1.0069 CurAsk: 1.0069  BUY 1.0154 (signal price -2%)
+19:08:04.709  XRP: (3)  HistoryDataLoaded: YES 
+19:08:04.764  XRP: (3)  Gonna set the order ... 
+19:08:04.938  XRP: (3) USDT-XRP Buy order: 98.5000 USDT-XRP rate: 1.0154 Sum: 100.02$  ID: 0 cID: emu
+19:08:04.938  XRP: (3) BUY Order SET!
+19:08:04.948  XRP: (3) Buy order DONE! FILL: 100%  Opened: 19:08:04.764 Quantity: 98.50000000 Sum: 99.21$ Avg.Price: 1.0068 (ASK + 0% )
+19:08:04.948  XRP: (3)   OrderCheck: vol: 98.50000000  ActualQ: 98.50000000  BTCvol: 99.20946792   TotalBTC: 99.20946792 -- vols:  wsQ: 98.50000000 wsBTC: 99.20946792 tBTC: 99.20946792
+19:08:04.948  XRP: (3) Using (strategy <+1000>) SELL price: 1.00% = 1.0169
+19:08:04.948  XRP: (3) SELL price corrected! delta=-0.18% 
+19:08:05.300  XRP: (3) USDT-XRP Sell order: 98.5000 USDT-XRP rate: 1.0150 Sum: 99.98$  ID: 0 cID: emu
+19:08:05.300  XRP: (3)   *** SELL order Set ! ***  Quantity: 98.50000000 Price: 1.0150
+19:08:05.322  XRP (3) : Selling 0.00000000   Pos: Long: 0.00000000 Short: 0.00000000  
+19:08:07.118  XRP: (3) Panic Sell Replacing....  <Spread: 0.20%>
+19:08:07.118  XRP: (3) SELL order replace request...
+19:08:07.148  XRP: (3) SELL order canceled! 
+19:08:07.523  XRP: (3) USDT-XRP Sell order: 98.5000 USDT-XRP rate: 1.0048 Sum: 98.97$  ID: 0 cID: emu
+19:08:07.523  XRP: (3) SELL order replaced ! 
+19:08:07.598  XRP: (3)   OrderCheck: vol: 98.50000000  ActualQ: 98.50000000  BTCvol: 99.12042195   TotalBTC: 99.12042195 -- vols:  wsQ: 98.50000000 wsBTC: 99.12042195 tBTC: 99.12042195
+19:08:07.598  XRP: (3)   *** SELL order DONE ! ***  Quantity: 98.5000 Avg.Price: 1.0065 Sum: 99.12$ Delta: -0.09$  wsQ:98.5000 wsBTC: 99.12$ rQ: 0.00000000
+19:08:07.598  XRP: (3)   *** Sell/Buy: - 0%
+19:08:07.598  XRP: (3)   *** Sell/ASK: + 0%
+19:08:07.615    *** Sell #XRP done, total:  - 0.09 $ (-1.8%) 

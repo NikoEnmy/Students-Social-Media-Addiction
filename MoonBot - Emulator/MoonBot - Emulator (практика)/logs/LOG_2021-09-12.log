@@ -1,0 +1,30 @@
+11:15:01               
+11:15:01           --- App Start ---   CPU: 8 cores   Memory: 8.46 Gb  UseMem: 100%   Canvas: TCanvasD2D
+11:15:02.387           ---  Init. Exchange: Binance Futures  ---  v6.45 (23.07.2021)  VDS Mode: NO  FreePosMode: NO
+11:15:02.559  TimeSync tries:1  Offset: 2  NTPDelay: 31
+11:15:03.324   UDP will exporter to port 2000
+11:15:03.324   UDP will listen port 7851
+11:15:11.010  Auth error! TryCount=4 err: {"code":-2015,"msg":"Invalid API-key, IP, or permissions for action, request ip: 46.8.28.9"}
+11:18:34.850  Auth error! TryCount=4 err: {"code":-2015,"msg":"Invalid API-key, IP, or permissions for action, request ip: 46.8.28.9"}
+11:19:43.627   UDP will listen port 7851
+11:19:58.844   UDP will listen port 7851
+11:20:53.032  Auth error! TryCount=4 err: {"code":-2015,"msg":"Invalid API-key, IP, or permissions for action, request ip: 46.8.28.9"}
+11:20:53.819  Disconnect Binance Futures...
+11:20:53.833  Waiting MoonShot shutdown. 
+11:20:53.911    -  Waiting Market Engine thread...
+11:20:54.439    -  Disconnected. 
+11:20:54.566           ---  Init. Exchange: Binance Futures  ---  v6.45 (23.07.2021)  VDS Mode: NO  FreePosMode: NO
+11:20:59.905   UDP will listen port 7851
+11:20:59.950  Auth error! TryCount=4 err: {"code":-2015,"msg":"Invalid API-key, IP, or permissions for action, request ip: 46.8.28.9"}
+11:21:01.253   UDP will listen port 7851
+11:21:32.712  Manual mode choosen
+11:21:33.269  Signals mode choosen
+11:21:51.198  Auth error! TryCount=4 err: {"code":-2015,"msg":"Invalid API-key, IP, or permissions for action, request ip: 46.8.28.9"}
+11:30:51.291  Manual mode choosen
+11:34:01.954  Closing...
+11:34:02.145  Waiting MoonShot shutdown. 
+11:34:02.161    -  Save settings 
+11:34:02.252    -  Waiting Market Engine thread...
+11:34:02.253    -  Closing db...
+11:34:02.268    -  Stop APIs thread...
+11:34:02.289    -  Quit 

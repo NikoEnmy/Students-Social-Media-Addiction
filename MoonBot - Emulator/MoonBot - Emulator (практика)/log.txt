@@ -1,0 +1,33 @@
+[2021.08.02 18:00:48] Launched version: 1005006, install beta: [TRUE], alpha: 0, debug mode: [FALSE], test dc: [FALSE]
+[2021.08.02 18:00:48] Executable dir: C:/Egor/MoonBot/MoonBot - Emulator (практика)/, name: UTelegram.exe
+[2021.08.02 18:00:48] Initial working dir: C:/Egor/MoonBot/MoonBot - Emulator (практика)/
+[2021.08.02 18:00:48] Working dir: C:/Egor/MoonBot/MoonBot - Emulator (практика)/
+[2021.08.02 18:00:48] Command line: C:\Egor\MoonBot\MoonBot - Emulator (практика)\UTelegram.exe
+[2021.08.02 18:00:48] Executable path before check: C:/Egor/MoonBot/MoonBot - Emulator (практика)/UTelegram.exe
+[2021.08.02 18:00:48] Logs started
+[2021.08.02 18:00:48] Connecting local socket to Global\f57efb71f7cb1e98aea8828d6acd08cd-{87A94AB0-E370-4cde-98D3-ACC110C5967D}...
+[2021.08.02 18:00:48] This is the only instance of Telegram, starting server and app...
+[2021.08.02 18:00:48] Moved logging from 'C:/Egor/MoonBot/MoonBot - Emulator (практика)/log_start0.txt' to 'C:/Egor/MoonBot/MoonBot - Emulator (практика)/log.txt'!
+[2021.08.02 18:00:48] Primary screen DPI: 96
+[2021.08.02 18:00:49] App Info: reading settings...
+[2021.08.02 18:00:49] App Info: reading encrypted settings...
+[2021.08.02 18:00:49] Lang Info: Loaded cached, keys: 3261
+[2021.08.02 18:00:49] Lang Error: Unexpected tag (key 'lng_call_box_status_group:amount')
+[2021.08.02 18:00:49] OpenAL Logging Level: (not set)
+[2021.08.02 18:00:49] Audio Playback Devices: OpenAL Soft
+[2021.08.02 18:00:49] Audio Playback Default Device: OpenAL Soft
+[2021.08.02 18:00:49] Audio Capture Devices: OpenAL Soft on Microphone (3- High Definition Audio Device)
+[2021.08.02 18:00:49] Audio Capture Default Device: OpenAL Soft on Microphone (3- High Definition Audio Device)
+[2021.08.02 18:00:49] App Info: reading map...
+[2021.08.02 18:00:49] App Info: reading encrypted map...
+[2021.08.02 18:00:49] App Info: could not read encrypted user settings...
+[2021.08.02 18:00:49] App Info: writing encrypted user settings...
+[2021.08.02 18:00:49] App Info: reading encrypted mtp data...
+[2021.08.02 18:00:49] MTP Info: read keys, current: 1, to destroy: 0
+[2021.08.02 18:00:49] Map read time: 8
+[2021.08.02 18:00:49] Window Shadow: 1, 1, 3, 4, 6, 9, 13, 18, 24, 31, 38, 46
+[2021.08.02 18:00:49] TCP Error: error packet received, endpoint: '149.154.167.51:443', protocolDcId: 2, code = -404
+[2021.08.02 18:00:50] TCP Error: error packet received, endpoint: '149.154.167.51:443', protocolDcId: 2, code = -404
+[2021.08.02 18:00:50] TCP Error: error packet received, endpoint: '149.154.167.51:443', protocolDcId: 2, code = -404
+[2021.08.02 18:00:50] TCP Error: error packet received, endpoint: '149.154.167.51:443', protocolDcId: 2, code = -404
+[2021.08.02 18:00:51] TCP Error: error packet received, endpoint: '149.154.167.51:443', protocolDcId: 2, code = -404
